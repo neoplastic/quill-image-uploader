@@ -1,7 +1,5 @@
 import "./blots/image";
 
-import "./quill.imageUploader.css";
-
 class ImageUploader {
     constructor(quill, options) {
         this.quill = quill;
